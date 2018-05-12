@@ -1,0 +1,32 @@
+_repo: Science-and-Morals-and-Other-Essays_24684
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Windle, Bertram Coghill Alan, Sir
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '26671'
+    url: http://www.gutenberg.org/2009/agents/26671
+description: ''
+gutenberg_issued: '2008-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science'
+- !lcsh 'Science'
+- !lcsh 'Essays'
+- !lcc 'Q'
+tableOfContents: Science and morals -- Theophobia and Nemesis -- Within and without
+  the system -- Science in "bondage" -- Science and the war -- Heredity and "arrangement"
+  -- "Special creation" -- Catholic writers and spontaneous generation -- A theory
+  of life.
+title: Science and Morals and Other Essays
+url: http://www.gutenberg.org/ebooks/24684
